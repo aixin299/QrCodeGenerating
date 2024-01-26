@@ -7,5 +7,6 @@ QrCodeGeneratingTool 是一个简单的 Java 项目，用于接受用户输入�
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/your-username/QrCodeGeneratingTool.git
+git clone https://github.com/aixin299/QrCodeGeneratingTool.git
+
 cd QrCodeGeneratingTool
